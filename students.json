@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmad",
+        "age": 22,
+        "course": "web",
+        "email": "web@gmail.com",
+        "gender": "Female",
+        "role": "student"
+    },
+    {
+        "id": 2,
+        "name": "khan",
+        "age": 22,
+        "course": "AI",
+        "email": "ai@gmail.com",
+        "gender": "male",
+        "role": "student"
+    },
+    {
+        "id": 3,
+        "name": "Ali",
+        "age": 24,
+        "course": "SE",
+        "email": "ali@gmail.com",
+        "gender": "male",
+        "role": "teacher"
+    }
+]
